@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyGnsys</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_w_principal">W_principal</string>
+</resources>
