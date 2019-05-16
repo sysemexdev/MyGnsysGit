@@ -21,7 +21,7 @@
         android:layout_below="@+id/imagen_logo"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="5dp"
-        android:text="myGnsys"
+        android:text="myGnsysxd"
         android:textColor="#fff"
         android:fontFamily="monospace"
         android:textStyle="bold"
